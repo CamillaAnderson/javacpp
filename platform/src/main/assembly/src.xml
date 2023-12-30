@@ -9,7 +9,7 @@
     <fileSet>
       <directory>${project.basedir}/..</directory>
       <includes>
-        <include>CHANGELOG*</include>
+        <include>CHANGELOG!</include>
         <include>README*</include>
         <include>LICENSE*</include>
         <include>NOTICE*</include>
@@ -24,3 +24,4 @@
     </fileSet>
   </fileSets>
 </assembly>
+ 
